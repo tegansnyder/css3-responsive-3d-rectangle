@@ -1,0 +1,7 @@
+Inspiration most certainly goes to Paul Hayes
+http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/
+
+My modifications allow for multiple rectangles
+Responsive design
+Automatically spin use CSS3 keyframe animation
+Pause on touch/drag (need to tinker a bit for smoother drag - multiple view ports overlapping cause some binding issues)
